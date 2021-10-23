@@ -8,7 +8,7 @@
 ### Contact me:
 
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/panagiotis-kotopoulis-3a614b20a/" />][linkedin]
+<a href="https://www.linkedin.com/in/panagiotis-kotopoulis-3a614b20a/" target="_blank"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="35"></a>
 
 
 <br />
