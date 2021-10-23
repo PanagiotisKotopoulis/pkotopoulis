@@ -10,9 +10,6 @@
 
 <a href="https://www.linkedin.com/in/panagiotis-kotopoulis-3a614b20a/" target="_blank"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="35"></a>
 
-
-<br />
-
 ### Languages and Tools:
 
 <a style="text-decoration: none;" href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>
