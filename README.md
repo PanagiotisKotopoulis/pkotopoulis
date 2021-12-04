@@ -2,11 +2,9 @@
 
 ## I'm a Student at TEI of Patras!!
 
-- 🔭 I currently working as an HR Intern at Intrasoft International!
 - 🌱 I’m currently learning everything but specifically DevOps Tools 🤣
 
 ### Contact me:
-
 
 <a href="https://www.linkedin.com/in/panagiotis-kotopoulis-3a614b20a/" target="_blank"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="35"></a>
 
